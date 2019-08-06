@@ -1,0 +1,31 @@
+{
+	"mobiles": [{
+			"id": 1001,
+			"name": "Apple",
+			"price": 100000,
+			"color": "white",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/6165nUZEW2L._SL1500_.jpg"
+		},
+		{
+			"id": 1003,
+			"name": "MI",
+			"price": 1000,
+			"color": "Black",
+			"image": "https://global.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1535513314.32765306.png"
+		},
+		{
+			"id": 1002,
+			"name": "Samsung",
+			"price": 12000,
+			"color": "grey",
+			"image": "https://static.toiimg.com/thumb/msid-63077121,width-220,resizemode-4/Samsung-Galaxy-S9.jpg"
+		},
+		{
+			"id": 1004,
+			"name": "Motorola",
+			"price": 19000,
+			"color": "grey",
+			"image": "https://www.91-img.com/pictures/128215-v8-motorola-one-mobile-phone-large-1.jpg"
+		}
+	]
+}
